@@ -1,5 +1,3 @@
-### 大转盘抽奖活动页 canvas版
+# lottery-vue
 
-![预览](/preview/preview.gif)
-
-[PC版本地址](https://cosyer.github.io/jelly/lottery/)
+>  使用 vue 开发的一个简单转盘，支持奖项动态配置
