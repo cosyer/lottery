@@ -3,3 +3,5 @@
 ![预览](/preview/preview.gif)
 
 [PC版本地址](https://cosyer.github.io/jelly/lottery/)
+
+[luckyDraw](/luckyDraw/preview/preview.png)
